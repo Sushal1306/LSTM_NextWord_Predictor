@@ -62,7 +62,8 @@ Run the app: streamlit run app.py
 
 ## ✨ Future Improvements
 
-- Add top-k predictions with probabilities  
+- Add top-k predictions with probabilities
+- Improve accuracy with more epochs
 - Improve UI design  
 - Train on larger datasets  
 - Deploy publicly  
@@ -71,6 +72,7 @@ Run the app: streamlit run app.py
 ## 📌 Author
 **Sushal Devasari**
 
+<img width="1919" height="917" alt="Screenshot 2026-02-17 165402" src="https://github.com/user-attachments/assets/83f1ec7b-40ea-474d-be94-8f5fe4080ef0" />
 
 
 
